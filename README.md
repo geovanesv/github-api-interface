@@ -1,1 +1,2 @@
-# github-api-interface
+# github api interface
+buscador de perfil, utilizando a api do github!
